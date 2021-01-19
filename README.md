@@ -26,4 +26,5 @@ contract DaeMo{
   ownerTripCount[msg.sender]++;
   allTripCount++;
 ```
+Daemo에서는 We에서 만든 어플의 형태를 기반으로 Solidity를 통해 Smart Contract를 구축했습니다.
 ### We
