@@ -28,6 +28,34 @@ contract DaeMo{
 ```
 Daemo에서는 Expo로 구축한 We를 기반으로 Solidity를 통해 Smart Contract를 구축했습니다.
 
-[참고자료] (https://docs.expo.io/) (https://cryptozombies.io/ko/)
+[참고자료] (https://cryptozombies.io/ko/)
 
 ### We
+```js
+import MapView, { Marker, Circle } from "react-native-maps";
+//중략
+function MainScreen({ navigation }) {
+ const data = [
+  {
+   name: "ㅇㅇ카페",
+   desc: "설명1",
+   image: require("./"),
+   iamge2: require("./"),
+   marker: { latitude: , longitude: },
+  },
+ //중략
+ ];
+ <View>
+  <MapView
+   style={{
+    width: Dimensions.get("window").width,
+    height: ,
+    left: ,
+    top: ,
+    position: "absolute",
+   }}
+   //중략
+  </MapView>
+ </View>
+```
+[참고자료] (https://docs.expo.io/)
