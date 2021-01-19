@@ -1,5 +1,8 @@
-# First Project
-한국표준협회에서 3개월간 진행한 팀 프로젝트 입니다.
-## Daemo
+## First Project
+ * 한국표준협회에서 3개월간 진행한 팀 프로젝트 입니다.
+  * Expo
+  * Smart Contract
+  
+### Daemo
 
-## We
+### We
