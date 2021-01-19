@@ -32,7 +32,7 @@ Daemo에서는 Expo로 구축한 We를 기반으로 Solidity를 통해 Smart Con
 
 ![ganache](https://user-images.githubusercontent.com/69658489/105055650-a133b400-5ab6-11eb-8625-cb9a22bddfe0.png)
 
-ganache를 이용하여 Smart Contract를 테스트 진행하였습니다.
+Smart Contract 테스트를 위해 ganache를 이용하였습니다.
 
 ![truffle](https://user-images.githubusercontent.com/69658489/105055792-c7f1ea80-5ab6-11eb-8a2d-d0cf6a5ea94c.png)
 
