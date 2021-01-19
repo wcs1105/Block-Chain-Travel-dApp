@@ -28,9 +28,15 @@ contract DaeMo{
 ```
 Daemo에서는 Expo로 구축한 We를 기반으로 Solidity를 통해 Smart Contract를 구축했습니다.
 
+[Solidity 참고자료] (https://cryptozombies.io/ko/)
+
+![ganache](https://user-images.githubusercontent.com/69658489/105055650-a133b400-5ab6-11eb-8625-cb9a22bddfe0.png)
+
 ganache를 이용하여 Smart Contract를 테스트 진행하였습니다.
 
-[Solidity 참고자료] (https://cryptozombies.io/ko/)
+![truffle](https://user-images.githubusercontent.com/69658489/105055792-c7f1ea80-5ab6-11eb-8a2d-d0cf6a5ea94c.png)
+
+truffle을 이용하여 Smart Contract를 compile 진행하였습니다.
 
 [truffle 참고자료] (https://medium.com/@weekly.teckle/truffle%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-dapp-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1-14a98dc49db2)
 
