@@ -27,4 +27,7 @@ contract DaeMo{
   allTripCount++;
 ```
 Daemo에서는 Expo로 구축한 We를 기반으로 Solidity를 통해 Smart Contract를 구축했습니다.
+
+[참고자료] (https://docs.expo.io/) (https://cryptozombies.io/ko/)
+
 ### We
